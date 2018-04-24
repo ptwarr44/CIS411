@@ -1,0 +1,10 @@
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\bin\HWAssgnOneQ5.dll.config
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\bin\HWAssgnOneQ5.dll
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\bin\HWAssgnOneQ5.pdb
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\obj\Debug\HWAssgnOneQ5.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\obj\Debug\HWAssgnOneQ5.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\obj\Debug\HWAssgnOneQ5.dll
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\obj\Debug\HWAssgnOneQ5.pdb
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOneQ5\HWAssgnOneQ5\HWAssgnOneQ5\obj\Debug\HWAssgnOneQ5.csproj.CopyComplete

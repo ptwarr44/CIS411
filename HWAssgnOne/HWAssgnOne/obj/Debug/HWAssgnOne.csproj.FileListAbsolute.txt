@@ -1,0 +1,9 @@
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\bin\HWAssgnOne.dll.config
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\bin\HWAssgnOne.dll
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\bin\HWAssgnOne.pdb
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\obj\Debug\HWAssgnOne.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\obj\Debug\HWAssgnOne.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\obj\Debug\HWAssgnOne.dll
+C:\Users\Patrick\Documents\School\SP18\CIS411\HWAssgnOne\HWAssgnOne\obj\Debug\HWAssgnOne.pdb
